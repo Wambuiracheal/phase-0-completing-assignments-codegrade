@@ -9,7 +9,7 @@
 
 During this course, you will work on various assignments as you learn to code.
 All assignments will be interactive pieces of curriculum that require some work.
-Some assignments may ask you to follow a set of instructions, while others will
+Some assignments may ask you to follow a set of instructions, while others will 
 ask you to figure out your own solution to pass specific tests. This lesson is
 your first assignment!
 
